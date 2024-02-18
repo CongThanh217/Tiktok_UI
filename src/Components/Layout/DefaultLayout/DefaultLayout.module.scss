@@ -6,13 +6,10 @@
 
 .container {
     width: var(--default-layout-width);
-    background-color: aquamarine;
     display: flex;
 }
 
 .content {
     // flex
     flex: 1;
-    background-color: aqua;
-    min-height: 1000px;
 }
